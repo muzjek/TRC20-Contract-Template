@@ -24,9 +24,7 @@
 ================================================================================
 
 
-// OzBit project is a DEFI program to be used as a decentralized
-   repository of assets and loans in the form of investments in OzBit Tokens
-   which are given full rights to Token owners
+// OzBit project is a DEFI program for comunity
 
 // twitter
  
